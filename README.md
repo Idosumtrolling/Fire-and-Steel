@@ -5,7 +5,11 @@
 Mechanics:
 
   Diplomacy - Whilst playing as a nation, interaction with other AI nations is crucial. For every in-game day that passes, you'll gain a number of poltical power (based on the difficulty you have set your game to). And every single diplomatic action you do requires poltical power.
+  
   Military - The miltary is essential for gameplay if ones want to expand and/or defend their land. To capture land, you must be at war with a nation and have at least one divison in an enemy provice or have your divisons destroy the enemy divisons within said province to capture it.
+  
   Industry - You require equipment to create new divison and equipment can only obtain by creating in factories. The more factories, the more equipment. And to get more factories, you must build them or capture an enemy provinces with factories.
+  
   Manpower - You also require manpower to create divisons. For every in-game day, you'll get a number of manpower. To get more manpower, you could wait or capture enemy provinces and wait for a shorter period of time. Therefore, more provinces=more manpower.
+  
   How to play; to see, go to the instructions of a Fire and Steel project.
