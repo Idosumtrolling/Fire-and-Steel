@@ -13,3 +13,8 @@ Mechanics:
   Manpower - You also require manpower to create divisons. For every in-game day, you'll get a number of manpower. To get more manpower, you could wait or capture enemy provinces and wait for a shorter period of time. Therefore, more provinces=more manpower.
   
   How to play; to see, go to the instructions of a Fire and Steel project.
+
+
+  Upcoming projects - "Fire and steel -All Provinces Indepentent World". It's a mod for the world map and is where every single province will be its own nation. It'll contain 300+ nations and will be released whenever I can stop being lazy and finish random side question I get myself into 😅. Focus Trees is something I also would like to create more of...but I'm to lazy...
+
+Notes: The 1st project of Fire and Steel was made by Vast_Gamer and "Fire and steel - v.1.5 (hearts of iron 4/HOI4 in scratch)" isn't actual the orginally or even a perfect copy as "Fire and steel - v.1.5 (hearts of iron 4/HOI4 in scratch)" includes Luxembourg, which the orginally project didn't include. The original project was taken down by scratch, I'm sure I do have a perfect copy somewhere in my projects...but there's also alota other trash 😅.
