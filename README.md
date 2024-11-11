@@ -18,3 +18,5 @@ Mechanics:
   Upcoming projects - "Fire and steel -All Provinces Indepentent World". It's a mod for the world map and is where every single province will be its own nation. It'll contain 300+ nations and will be released whenever I can stop being lazy and finish random side question I get myself into 😅. Focus Trees is something I also would like to create more of...but I'm to lazy...
 
 Notes: The 1st project of Fire and Steel was made by Vast_Gamer and "Fire and steel - v.1.5 (hearts of iron 4/HOI4 in scratch)" isn't actual the orginally or even a perfect copy as "Fire and steel - v.1.5 (hearts of iron 4/HOI4 in scratch)" includes Luxembourg, which the orginally project didn't include. The original project was taken down by scratch, I'm sure I do have a perfect copy somewhere in my projects...but there's also alota other trash 😅.
+
+Also, please follow, like and heart the projects. Please? 🥺
