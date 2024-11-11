@@ -19,4 +19,4 @@ Mechanics:
 
 Notes: The 1st project of Fire and Steel was made by Vast_Gamer and "Fire and steel - v.1.5 (hearts of iron 4/HOI4 in scratch)" isn't actual the orginally or even a perfect copy as "Fire and steel - v.1.5 (hearts of iron 4/HOI4 in scratch)" includes Luxembourg, which the orginally project didn't include. The original project was taken down by scratch, I'm sure I do have a perfect copy somewhere in my projects...but there's also alota other trash 😅.
 
-Also, please follow, like and heart the projects. Please? 🥺
+Also, please follow, like and heart the projects. Please? 🥺. And if you'll ever need me, send me a message over svcartch...I'll check my messages probably...
